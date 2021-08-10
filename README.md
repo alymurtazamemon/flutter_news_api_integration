@@ -4,4 +4,4 @@ It is the News App made with Flutter/Dart that gets the real-time data from news
 
 ## Project Mockup
 
-<img src="read-me-image/flutter-news-api.png"> 
+<img src="read-me-image/flutter-news-api.png" width="600"> 
